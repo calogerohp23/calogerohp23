@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Calogero (Calo) Henriquez
+- 👀 I’m interested in de
+- 🌱 I’m currently learning Software Architectures
+- 💞️ I’m looking to collaborate on C# projects
+- 📫 How to reach me:
+  - ✉️Email: calogero.henper@gmail.com.
+  - 📱Phone: +1-(829)-723-6166.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My name is Italian, but it comes from the movie "A Bronx's tale"
